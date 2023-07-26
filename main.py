@@ -14,6 +14,9 @@ def feature1():
     # start building feat1
     # for...
     # input...
+    name = input('Enter your name: ')
+    print('Hello ' + name)
+    
     
 def feature2():
     ...
