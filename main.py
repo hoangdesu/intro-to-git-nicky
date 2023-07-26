@@ -1,3 +1,22 @@
 # commit 1
 # commit 2 => commit 4
 # commit 3 <- gone
+
+
+def main():
+    feature1()
+    feature2()
+    feature3()
+    
+    
+def feature1():
+    ...
+    # start building feat1
+    # for...
+    # input...
+    
+def feature2():
+    ...
+    
+def feature3():
+    ...

@@ -9,3 +9,8 @@ everything starts with "git"
 - git log: show all the commits
 - git checkout <branch/commit hash>
 - git switch - / git checkout main: go back to the latest commit
+
+Branching:
+create a different route to separate out different features, avoid conflicts
+- git checkout -b "branchname"
+- git branch --list
