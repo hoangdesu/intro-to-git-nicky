@@ -8,3 +8,4 @@ everything starts with "git"
 - git config: email and username
 - git log: show all the commits
 - git checkout <branch/commit hash>
+- git switch - / git checkout main: go back to the latest commit
