@@ -19,3 +19,9 @@ create a different route to separate out different features, avoid conflicts
 when merging: there are 2 options:
 1. squash and merge: all commits on a branch are squashed (combined) into 1 commit
 2. bring all the commits from a branch to the main branch
+
+
+Git vs Github:
+- local vs cloud
+- github allows one codebase for a project, that many devs can work on together
+- devs need privilege/permission to collaborate
